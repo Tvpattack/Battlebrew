@@ -1,0 +1,2877 @@
+[CustomCards]
+	[    {
+	        "name": "IxNaar Overseers",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar Overseers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Plains.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Island.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Swamp.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Due Respect",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Due Respect.jpg"
+	        }
+	    },
+	    {
+	        "name": "IxNaar Abomination",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar Abomination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami Flesh",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami Flesh.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodseeker Calyptra",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Insect Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodseeker Calyptra.jpg"
+	        }
+	    },
+	    {
+	        "name": "Siltform Rebirth",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Siltform Rebirth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skullcap Arachnid",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Spider Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Skullcap Arachnid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pious Adjudicator",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Tiefling Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Pious Adjudicator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fanatic of the Ashen Idol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Fanatic of the Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Savage Awakener",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Treefolk Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Savage Awakener.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zof Voqu Magistrate",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Zof Voqu Magistrate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Assassinate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Assassinate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wandering Mage",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wandering Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Veldt Stalker",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Insect Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Veldt Stalker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Knight of IxNaar",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Giant Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Knight of IxNaar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Up and at Em",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Up and at Em.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Ashen Idol",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{R}{G}",
+	        "type": "Legendary Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/The Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Making a Monster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Making a Monster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Wandering",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Wandering.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dewfrost Kami",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dewfrost Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Monstrous Pursuit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Monstrous Pursuit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Politician",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Tiefling Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Politician.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Highborn",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Highborn.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warding Witch",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Warding Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Readied Spear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Readied Spear.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coven Solspeaker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Tiefling Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Coven Solspeaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Enthari Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Enthari Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mistral Giant",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Giant Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mistral Giant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Siltwalker Kirin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Siltwalker Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Sojourner",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Sojourner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Enthari Shaman",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Enthari Shaman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spirit Shield",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Spirit Shield.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moment of Heroism",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Moment of Heroism.jpg"
+	        }
+	    },
+	    {
+	        "name": "Void Renewal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Void Renewal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soultrap Ascetic",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Tiefling Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Soultrap Ascetic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Truesight Kirin",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Truesight Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Citadel Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Citadel Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cursestalker Strix",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Cursestalker Strix.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreamlight Barrier",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dreamlight Barrier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coven Scheme",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Coven Scheme.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rift Reversal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Rift Reversal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Fugue",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Fugue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dire Kami",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dire Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mournful Reject",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mournful Reject.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wretched Kami",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wretched Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "IxNaar Witches",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar Witches.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blightcaster",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Blightcaster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Outland Berserker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Berserker ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Outland Berserker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twisted Fate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Twisted Fate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodharvest Ritualist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodharvest Ritualist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Apprentice Witch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Apprentice Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshstripper Hex",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Fleshstripper Hex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ancient Consultation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ancient Consultation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of the Wasteful",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of the Wasteful.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mark of the Ashen Idol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mark of the Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Boundless Fervor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Boundless Fervor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moltenspear Warlock",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Moltenspear Warlock.jpg"
+	        }
+	    },
+	    {
+	        "name": "Manablade Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Manablade Warrior.jpg"
+	        }
+	    },
+	    {
+	        "name": "Electrobane Mage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Electrobane Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gnashing Burlau",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Lizard Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Gnashing Burlau.jpg"
+	        }
+	    },
+	    {
+	        "name": "Distracting Kami",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Distracting Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ichorspine Kirin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ichorspine Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Peddling Dissenter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Tiefling Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Peddling Dissenter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Solemn Hexblade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Solemn Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Judgement",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashen Judgement.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodthirst",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodthirst.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Insight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashen Insight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Seeding",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Seeding.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Vigor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Vigor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bonecrusher Asp",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bonecrusher Asp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Outlands Primordial",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Outlands Primordial.jpg"
+	        }
+	    },
+	    {
+	        "name": "Explorer Shaman",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Explorer Shaman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Axebane Guardian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Axebane Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burlau Breaker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Burlau Breaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Erode into the Past",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Erode into the Past.jpg"
+	        }
+	    },
+	    {
+	        "name": "Intrepid Kirin",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Intrepid Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Quakestep Ents",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Treefolk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Quakestep Ents.jpg"
+	        }
+	    },
+	    {
+	        "name": "Evolution Ooze",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Ooze ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Evolution Ooze.jpg"
+	        }
+	    },
+	    {
+	        "name": "Second Skin Viper",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Second Skin Viper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Survivalists Guile",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Survivalists Guile.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodthorn Elemental",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodthorn Elemental.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mystic Communion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mystic Communion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reinforced Sinnew",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reinforced Sinnew.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodscent Trackers",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodscent Trackers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Titanic Straining",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Titanic Straining.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coven Luminarch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Tiefling Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Coven Luminarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mistglide Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mistglide Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Stalemates",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Stalemates.jpg"
+	        }
+	    },
+	    {
+	        "name": "Citadel Dissenter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Citadel Dissenter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Janus Voqu Arbiter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Janus Voqu Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Martial Aptitude",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Martial Aptitude.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gift of Estates",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Gift of Estates.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pious Indoctrination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Pious Indoctrination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Resolution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Resolution.jpg"
+	        }
+	    },
+	    {
+	        "name": "Split Infinities",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Split Infinities.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Historian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Historian.jpg"
+	        }
+	    },
+	    {
+	        "name": "Father Alcron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Legendary Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Father Alcron.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pulled into the Pages",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Pulled into the Pages.jpg"
+	        }
+	    },
+	    {
+	        "name": "Time Hole",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Time Hole.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crystallize",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Crystallize.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spell Transfusion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Spell Transfusion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Manaplume Augury",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Manaplume Augury.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreadculler Codex",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dreadculler Codex.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consult the Microverse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Consult the Microverse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Lethargy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Lethargy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shaad Lone Alchemist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Shaad Lone Alchemist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witch of Foul Ends",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Witch of Foul Ends.jpg"
+	        }
+	    },
+	    {
+	        "name": "Horror of IxNaar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Demon Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Horror of IxNaar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Deaths Veil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Deaths Veil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sinister Kirin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sinister Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eldritch Blast",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Eldritch Blast.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bitterheart Revival",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bitterheart Revival.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gaze of the Ashen Idol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Gaze of the Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Covenant Psychosis",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Covenant Psychosis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Urden OneEye",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Legendary Creature — Giant Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Urden OneEye.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Eviscerator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashen Eviscerator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Another Brother",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Another Brother.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wretched Atronach",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wretched Atronach.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shaman of Might",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Shaman of Might.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Conflagration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Conflagration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Igneous Salvo",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Igneous Salvo.jpg"
+	        }
+	    },
+	    {
+	        "name": "Failed Cauterization",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Failed Cauterization.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cataclysmic Eruption",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Cataclysmic Eruption.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sylvan Caryatid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sylvan Caryatid.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tiefling Animist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Tiefling Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Tiefling Animist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soulreader Kirin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Soulreader Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cultivate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Cultivate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Charge from Disaster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Charge from Disaster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Strained Metamorphosis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Strained Metamorphosis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shamanic Chide",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Shamanic Chide.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wild Weirding",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wild Weirding.jpg"
+	        }
+	    },
+	    {
+	        "name": "Refraction Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Refraction Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shaman of Warding",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Shaman of Warding.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fildarn the Watchful Eye",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Fildarn the Watchful Eye.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ancient Judgement",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}{W}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ancient Judgement.jpg"
+	        }
+	    },
+	    {
+	        "name": "Greater Restoration",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Greater Restoration.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warcaster Rejuvenation",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Warcaster Rejuvenation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Precursor Caster",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Precursor Caster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madias Gaze",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Madias Gaze.jpg"
+	        }
+	    },
+	    {
+	        "name": "The Aberrant Order",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Legendary Creature — Spirit Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/The Aberrant Order.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sorrow of Azgol",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sorrow of Azgol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dreamlike Duality",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dreamlike Duality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reality Inversion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reality Inversion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Undead Patron",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Zombie Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Undead Patron.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ophiomancer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ophiomancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Necrotized Necromancer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Necrotized Necromancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodline Defiler",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodline Defiler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Baleful Omen",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Baleful Omen.jpg"
+	        }
+	    },
+	    {
+	        "name": "Heros Remorse",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Heros Remorse.jpg"
+	        }
+	    },
+	    {
+	        "name": "IxNaar Dragonrider",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{R}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar Dragonrider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fealty Lich",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Zombie Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Fealty Lich.jpg"
+	        }
+	    },
+	    {
+	        "name": "Decapitator Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Decapitator Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Proud Manablade",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Proud Manablade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hexblaze Hellkite",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Hexblaze Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Draconic Doom",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{R}{R}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Draconic Doom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reality Gape",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reality Gape.jpg"
+	        }
+	    },
+	    {
+	        "name": "Shaman of the Past",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Shaman of the Past.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jadelight Arcanist",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Jadelight Arcanist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Intruders Bane",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Plant Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Intruders Bane.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bestial Fusion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bestial Fusion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jerdo Harrons Brother",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Jerdo Harrons Brother.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Manifestation",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Kirin Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Manifestation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Umbral Reaver Giant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Giant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Umbral Reaver Giant.jpg"
+	        }
+	    },
+	    {
+	        "name": "One of Many and Many of One",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/One of Many and Many of One.jpg"
+	        }
+	    },
+	    {
+	        "name": "Suvvaris Citadel Stalwart",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Suvvaris Citadel Stalwart.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madia Spellslinger Savant",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Legendary Planeswalker — Madia ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Madia Spellslinger Savant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Xixshang Cursed with Knowledge",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Legendary Creature — Bird Sphinx Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Xixshang Cursed with Knowledge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Abyssal Overseer",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Abyssal Overseer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashiok Defiler of Azgol",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Planeswalker — Ashiok ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashiok Defiler of Azgol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Magmatic Apparition",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Magmatic Apparition.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tear the Seam",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Tear the Seam.jpg"
+	        }
+	    },
+	    {
+	        "name": "Derelict Mox",
+	        "rarity": "mythic",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Derelict Mox.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leyline Reformation",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Leyline Reformation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Rippling Clouds",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Rippling Clouds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Woe Sculptor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{B}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Woe Sculptor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zodiac Kirin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Kirin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Zodiac Kirin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Muse Kami",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Muse Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eclipse Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Eclipse Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Fleeting Focus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Fleeting Focus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Boundless Sacrifice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Boundless Sacrifice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Manablade Reckoner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Manablade Reckoner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thornshift Battlements",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Plant Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Thornshift Battlements.jpg"
+	        }
+	    },
+	    {
+	        "name": "Astral Negator",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature — Tiefling Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Astral Negator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mindless Memoir",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mindless Memoir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Azgol Duskwitch",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Azgol Duskwitch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sentinel of the Eternal Flame",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sentinel of the Eternal Flame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Druid of the Old Ways",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Tiefling Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Druid of the Old Ways.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reward of the Faithful",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reward of the Faithful.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frostflame Witch",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Frostflame Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Poltergeist Procession",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Poltergeist Procession.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eclipse Hellkite",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{W}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Eclipse Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primordial Awakening",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Primordial Awakening.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witches Chalice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Witches Chalice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Phylactery Totem",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Phylactery Totem.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witches Broom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Witches Broom.jpg"
+	        }
+	    },
+	    {
+	        "name": "Witches Tome",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Witches Tome.jpg"
+	        }
+	    },
+	    {
+	        "name": "Worn Spellcasting Focus",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Worn Spellcasting Focus.jpg"
+	        }
+	    },
+	    {
+	        "name": "Terramorphic Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Terramorphic Expanse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sacrificial Stupa",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sacrificial Stupa.jpg"
+	        }
+	    },
+	    {
+	        "name": "Aurora Frontier",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Aurora Frontier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crumbling Ruins",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Crumbling Ruins.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reliquary Tower",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reliquary Tower.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coven Hideout",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Coven Hideout.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hinterland Harbor",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Hinterland Harbor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Clifftop Retreat",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Clifftop Retreat.jpg"
+	        }
+	    },
+	    {
+	        "name": "Woodland Cemetery",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Woodland Cemetery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sulfur Falls",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sulfur Falls.jpg"
+	        }
+	    },
+	    {
+	        "name": "Isolated Chapel",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Isolated Chapel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zeyn Frenetic Sorceress",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Zeyn Frenetic Sorceress.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashioks Metamorphosis",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashioks Metamorphosis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dirden Draconis",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dirden Draconis.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lymma Benevolent Pacifist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Tiefling Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Lymma Benevolent Pacifist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Calzara the Face Stealer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Legendary Creature — Shapeshifter Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Calzara the Face Stealer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Singularity Cube",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Singularity Cube.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hall of Mirrors",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Hall of Mirrors.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sword of the Ashen Idol",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Sword of the Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lunar Convergence",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{U}{B}{R}{G}",
+	        "type": "Legendary Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Lunar Convergence.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vivien Friend to Monsters",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Planeswalker — Vivien ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Vivien Friend to Monsters.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nezhu Ethercast Ronin",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{W}{U}",
+	        "type": "Legendary Planeswalker — Nezhu ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Nezhu Ethercast Ronin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Desolate Pilgrimage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Desolate Pilgrimage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Psychic Sphinx",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Psychic Sphinx.jpg"
+	        }
+	    },
+	    {
+	        "name": "Battlefield Seer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Battlefield Seer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Coven Amalgam",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Coven Amalgam.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tomeskimmer Mage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Tomeskimmer Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Targan Speaker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Targan Speaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kami of Truesight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Kami of Truesight.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gravitate",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Gravitate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bibliomancer Savant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bibliomancer Savant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Innervator Kami",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Innervator Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emberize",
+	        "rarity": "common",
+	        "mana_cost": "{X}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Emberize.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nomads Bauble",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Nomads Bauble.jpg"
+	        }
+	    },
+	    {
+	        "name": "Icy Manipulator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Icy Manipulator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Torpor Orb",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Torpor Orb.jpg"
+	        }
+	    },
+	    {
+	        "name": "IxNaar Arbiter",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zealot of the Ashen Idol",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Tiefling Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Zealot of the Ashen Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Solemn Simulacrum",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Solemn Simulacrum.jpg"
+	        }
+	    },
+	    {
+	        "name": "Accursed Fathomer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Accursed Fathomer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bitterblade Warlock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bitterblade Warlock.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Misfortunes",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Misfortunes.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bitterheart Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bitterheart Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of the Pierced Heart",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of the Pierced Heart.jpg"
+	        }
+	    },
+	    {
+	        "name": "Disrupt Leyline",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Disrupt Leyline.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cursed Broker",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Cursed Broker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mountain.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Forest.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unravel the Aether",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Unravel the Aether.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zombie",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Zombie.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dragon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Dragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Snake",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Snake.jpg"
+	        }
+	    },
+	    {
+	        "name": "IxNaar High Priest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/IxNaar High Priest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ethercast Intuition",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ethercast Intuition.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spirit.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Spirit.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tormentors Miasma",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Tormentors Miasma.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolf Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wolf Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wolf Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Monk",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Monk.jpg"
+	        }
+	    },
+	    {
+	        "name": "Copy",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Copy.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mirror",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Mirror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Mirror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Ascetic",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashen Ascetic.jpg"
+	        }
+	    },
+	    {
+	        "name": "Damnable Dreams",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Damnable Dreams.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wildclaw Kami",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Wildclaw Kami.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voqu Judgement",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Voqu Judgement.jpg"
+	        }
+	    },
+	    {
+	        "name": "Defenders Gambit",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Defenders Gambit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Agent of the Idol",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Tiefling Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Agent of the Idol.jpg"
+	        }
+	    },
+	    {
+	        "name": "Laishul Balance Keeper",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{W}",
+	        "type": "Legendary Creature — Angel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Laishul Balance Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodlight Ritual",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Bloodlight Ritual.jpg"
+	        }
+	    },
+	    {
+	        "name": "Duskwalker Witch",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Duskwalker Witch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crack the Code",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Crack the Code.jpg"
+	        }
+	    },
+	    {
+	        "name": "Reprimand",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Reprimand.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trials of Suvvaris",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Trials of Suvvaris.jpg"
+	        }
+	    },
+	    {
+	        "name": "Emaciated Roc",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Emaciated Roc.jpg"
+	        }
+	    },
+	    {
+	        "name": "Primordial Crusader",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Primordial Crusader.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vile Summoner",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Vile Summoner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blind Rage",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Blind Rage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infernal Dominion",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Infernal Dominion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Calzaras Apprentice",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Demon Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Calzaras Apprentice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Curse of Secrets",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Curse of Secrets.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ulgleyth Corrupted King",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Legendary Creature — Unicorn Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ulgleyth Corrupted King.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ashen Animation",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Ashen Animation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Azgol Draft Archetypes",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Azgol/main/AZG-files/Azgol Draft Archetypes.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Zof Voqu Magistrate
+		3 Refraction Dragon
+		3 Shaman of Warding
+		3 Fildarn the Watchful Eye
+		3 Ancient Judgement
+		3 Greater Restoration
+		3 Warcaster Rejuvenation
+		3 Precursor Caster
+		3 Madias Gaze
+		3 The Aberrant Order
+		3 Sorrow of Azgol
+		3 Dreamlike Duality
+		3 Reality Inversion
+		3 Undead Patron
+		3 Ophiomancer
+		3 Necrotized Necromancer
+		3 Bloodline Defiler
+		3 Baleful Omen
+		3 Heros Remorse
+		3 IxNaar Dragonrider
+		3 Fealty Lich
+		3 Decapitator Dragon
+		3 Proud Manablade
+		3 Hexblaze Hellkite
+		3 Reality Gape
+		3 Shaman of the Past
+		3 Jadelight Arcanist
+		3 Intruders Bane
+		3 Bestial Fusion
+		3 Jerdo Harrons Brother
+		3 Kami of Manifestation
+		3 Umbral Reaver Giant
+		3 Tear the Seam
+		3 Astral Negator
+		3 Mindless Memoir
+		3 Azgol Duskwitch
+		3 Sentinel of the Eternal Flame
+		3 Druid of the Old Ways
+		3 Reward of the Faithful
+		3 Frostflame Witch
+		3 Poltergeist Procession
+		3 Eclipse Hellkite
+		3 Primordial Awakening
+		3 Hinterland Harbor
+		3 Clifftop Retreat
+		3 Woodland Cemetery
+		3 Sulfur Falls
+		3 Isolated Chapel
+		3 Zeyn Frenetic Sorceress
+		3 Ashioks Metamorphosis
+		3 Dirden Draconis
+		3 Lymma Benevolent Pacifist
+		3 Calzara the Face Stealer
+		3 Singularity Cube
+		3 Hall of Mirrors
+		3 Solemn Simulacrum
+		3 Curse of Misfortunes
+		3 Cursed Broker
+		3 Damnable Dreams
+		3 Wildclaw Kami
+		3 Voqu Judgement
+		3 Defenders Gambit
+		3 Agent of the Idol
+		3 Laishul Balance Keeper
+		3 Bloodlight Ritual
+		3 Duskwalker Witch
+		3 Crack the Code
+		3 Reprimand
+		3 Trials of Suvvaris
+		3 Emaciated Roc
+		3 Primordial Crusader
+		3 Vile Summoner
+		3 Blind Rage
+		3 Infernal Dominion
+		3 Calzaras Apprentice
+		3 Curse of Secrets
+		3 Ulgleyth Corrupted King
+		3 Ashen Animation
+		1 The Ashen Idol
+		1 Curse of Draconic Doom
+		1 One of Many and Many of One
+		1 Suvvaris Citadel Stalwart
+		1 Madia Spellslinger Savant
+		1 Xixshang Cursed with Knowledge
+		1 Abyssal Overseer
+		1 Ashiok Defiler of Azgol
+		1 Magmatic Apparition
+		1 Derelict Mox
+		1 Leyline Reformation
+		1 Sword of the Ashen Idol
+		1 Lunar Convergence
+		1 Vivien Friend to Monsters
+		1 Nezhu Ethercast Ronin
+	[UncommonSlot(3)]
+		3 Fanatic of the Ashen Idol
+		3 Savage Awakener
+		3 Up and at Em
+		3 Making a Monster
+		3 Void Renewal
+		3 Curse of the Wasteful
+		3 Mark of the Ashen Idol
+		3 Kami of Boundless Fervor
+		3 Manablade Warrior
+		3 Ashen Judgement
+		3 Ashen Insight
+		3 Coven Luminarch
+		3 Mistglide Dragon
+		3 Kami of Stalemates
+		3 Citadel Dissenter
+		3 Janus Voqu Arbiter
+		3 Gift of Estates
+		3 Pious Indoctrination
+		3 Voqu Resolution
+		3 Split Infinities
+		3 Voqu Historian
+		3 Father Alcron
+		3 Time Hole
+		3 Spell Transfusion
+		3 Manaplume Augury
+		3 Dreadculler Codex
+		3 Consult the Microverse
+		3 Curse of Lethargy
+		3 Shaad Lone Alchemist
+		3 Horror of IxNaar
+		3 Kami of Deaths Veil
+		3 Sinister Kirin
+		3 Bitterheart Revival
+		3 Gaze of the Ashen Idol
+		3 Urden OneEye
+		3 Ashen Eviscerator
+		3 Another Brother
+		3 Curse of Conflagration
+		3 Cataclysmic Eruption
+		3 Sylvan Caryatid
+		3 Tiefling Animist
+		3 Soulreader Kirin
+		3 Cultivate
+		3 Charge from Disaster
+		3 Strained Metamorphosis
+		3 Shamanic Chide
+		3 Wild Weirding
+		3 Kami of Rippling Clouds
+		3 Woe Sculptor
+		3 Zodiac Kirin
+		3 Muse Kami
+		3 Eclipse Witch
+		3 Curse of Fleeting Focus
+		3 Kami of Boundless Sacrifice
+		3 Manablade Reckoner
+		3 Thornshift Battlements
+		3 Witches Chalice
+		3 Witches Broom
+		3 Witches Tome
+		3 Sacrificial Stupa
+		3 Aurora Frontier
+		3 Crumbling Ruins
+		3 Reliquary Tower
+		3 Coven Hideout
+		3 Desolate Pilgrimage
+		3 Psychic Sphinx
+		3 Bibliomancer Savant
+		3 Icy Manipulator
+		3 Torpor Orb
+		3 Zealot of the Ashen Idol
+		3 Bitterblade Warlock
+		3 Bitterheart Witch
+		3 Unravel the Aether
+		3 IxNaar High Priest
+		3 Ethercast Intuition
+	[CommonSlot(10)]
+		4 IxNaar Overseers
+		4 Due Respect
+		4 IxNaar Abomination
+		4 Kami Flesh
+		4 Bloodseeker Calyptra
+		4 Siltform Rebirth
+		4 Skullcap Arachnid
+		4 Pious Adjudicator
+		4 Assassinate
+		4 Wandering Mage
+		4 Veldt Stalker
+		4 Knight of IxNaar
+		4 Kami of Wandering
+		4 Dewfrost Kami
+		4 Monstrous Pursuit
+		4 Voqu Politician
+		4 Voqu Highborn
+		4 Warding Witch
+		4 Readied Spear
+		4 Coven Solspeaker
+		4 Enthari Sentinel
+		4 Mistral Giant
+		4 Siltwalker Kirin
+		4 Voqu Sojourner
+		4 Enthari Shaman
+		4 Spirit Shield
+		4 Moment of Heroism
+		4 Soultrap Ascetic
+		4 Truesight Kirin
+		4 Citadel Witch
+		4 Cursestalker Strix
+		4 Dreamlight Barrier
+		4 Coven Scheme
+		4 Rift Reversal
+		4 Curse of Fugue
+		4 Dire Kami
+		4 Mournful Reject
+		4 Wretched Kami
+		4 IxNaar Witches
+		4 Blightcaster
+		4 Outland Berserker
+		4 Twisted Fate
+		4 Bloodharvest Ritualist
+		4 Apprentice Witch
+		4 Fleshstripper Hex
+		4 Ancient Consultation
+		4 Moltenspear Warlock
+		4 Electrobane Mage
+		4 Gnashing Burlau
+		4 Distracting Kami
+		4 Ichorspine Kirin
+		4 Peddling Dissenter
+		4 Solemn Hexblade
+		4 Bloodthirst
+		4 Kami of Seeding
+		4 Kami of Vigor
+		4 Bonecrusher Asp
+		4 Outlands Primordial
+		4 Explorer Shaman
+		4 Axebane Guardian
+		4 Burlau Breaker
+		4 Erode into the Past
+		4 Intrepid Kirin
+		4 Quakestep Ents
+		4 Evolution Ooze
+		4 Second Skin Viper
+		4 Survivalists Guile
+		4 Bloodthorn Elemental
+		4 Mystic Communion
+		4 Reinforced Sinnew
+		4 Bloodscent Trackers
+		4 Titanic Straining
+		4 Martial Aptitude
+		4 Pulled into the Pages
+		4 Crystallize
+		4 Witch of Foul Ends
+		4 Eldritch Blast
+		4 Covenant Psychosis
+		4 Wretched Atronach
+		4 Shaman of Might
+		4 Igneous Salvo
+		4 Failed Cauterization
+		4 Phylactery Totem
+		4 Worn Spellcasting Focus
+		4 Terramorphic Expanse
+		4 Battlefield Seer
+		4 Coven Amalgam
+		4 Tomeskimmer Mage
+		4 Targan Speaker
+		4 Kami of Truesight
+		4 Gravitate
+		4 Innervator Kami
+		4 Emberize
+		4 Nomads Bauble
+		4 IxNaar Arbiter
+		4 Accursed Fathomer
+		4 Curse of the Pierced Heart
+		4 Disrupt Leyline
+		4 Tormentors Miasma
+		4 Ashen Ascetic
+	[BasicSlot(1)]
+		10 Plains.1
+		10 Island.1
+		10 Swamp.1
+		10 Mountain
+		10 Forest
+		10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain.1
+		10 Forest.1
+	
