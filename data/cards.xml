@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <info>
+        <author>Cockatrice 2.8.0 (2021-01-26)</author>
+        <createdAt>2024-05-16T04:26:21Z</createdAt>
+        <sourceUrl>https://revolution-manifesto.herokuapp.com/setsdownload</sourceUrl>
+        <sourceVersion>unknown</sourceVersion>
+    </info>
+    <sets>
+        </sets>
+    <cards>
+        </cards>
+</cockatrice_carddatabase>
